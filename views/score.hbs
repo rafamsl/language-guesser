@@ -1,0 +1,110 @@
+<head>
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #F8E9A1;
+    }
+    .container {
+      margin-top: 50px;
+    }
+    .card {
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      margin-bottom: 10px;
+      margin-top: 10px;
+      height: fit-content;
+    }
+    .card-text {
+      font-size: 18px;
+      text-align: center;
+      color: #333;
+      margin-left: 5px;
+    }
+    .font-weight-bold {
+      font-weight: bold;
+    }
+    .user-score {
+      padding: 5px;
+      border-radius: 5px;
+      margin-bottom: 10px;
+      background-color: #F0C987;
+      color: #333;
+      text-align: center;
+    }
+    .final-score {
+      background-color: #069140;
+      border-radius: 10px;
+      padding: 10px;
+      text-align: center;
+      font-size: 18px;
+      font-weight: bold;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: 20px;
+      align-content: center;
+      height: fit-content;
+      width: fit-content;
+    }
+    .btn-primary {
+      background-color: #c0a71cc5;
+      border-color: #b9a223aa;
+    }
+    .vertical-card-body {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .horizontal-boxes {
+      display: flex;
+      justify-content: space-between;
+    }
+    .horizontal-boxes .box {
+      flex-basis: 15%;
+      padding: 10px;
+      background-color: #F0C987;
+      border-radius: 2px;
+      color: #333;
+      text-align: center;
+      height: fit-content;
+      margin-left: 5px;
+      margin-bottom: 5px;
+      margin-right: 5px;
+      font-size: small;
+    }
+  </style>
+</head>
+<body>
+  <div class="container-fluid">
+      <div class="col-md-10">
+        {{#each samples}}
+        <div class="card">
+          <div class="vertical-card-body">
+            <p class="card-text">{{extract}}</p>
+            <div class="horizontal-boxes">
+              <div class="box correct-answer">
+                <p class="font-weight-bold">Correct Language:</p>
+                <p>{{language}}</p>
+              </div>
+              <div class="box user-answer">
+                <p class="font-weight-bold">Selected Language:</p>
+                <p>{{selectedLanguage}}</p>
+              </div>
+              <div class="box user-score">
+                <p class="font-weight-bold">Score:</p>
+                <p>{{score}}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        {{/each}}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="final-score">
+          <h4>Final Score:</h4>
+          <p>{{totalScore}}</p>
+        </div>
+      </div>
+  </div>
+</body>

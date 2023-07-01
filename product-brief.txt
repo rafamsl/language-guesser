@@ -1,0 +1,23 @@
+WHAT
+
+A game for users to guess which language is written based on a short sample
+
+HOW
+
+SCHEMA
+
+A) Samples
+- text: string
+- language: code (Foreign Key from Languages)
+
+B) Languages
+- language: code
+
+
+FUNCTIONS
+
+Get random sample
+
+Check 
+
+

@@ -1,0 +1,35 @@
+{
+  "date": "02/07/23",
+  "sample": [
+    {
+      "extract": "કટુડા (તા. વઢવાણ) ભારત દેશના પશ્ચિમ ભાગમાં આવેલા ગુજરાત રાજ્યના સૌરાષ્ટ્ર વિસ્તારમાં આવેલા સુરેન્દ્રનગર જિલ્લામાં આવેલા કુલ ૧૦ (દસ) તાલુકાઓ પૈકીના એક એવા વઢવાણ તાલુકામાં આવેલું એક ગામ છે. કટુડા ગામના લોકોનો મુખ્ય વ્યવસાય ખેતી, ખેતમજૂરી તેમ જ પશુપાલન છે. આ ગામમાં મુખ્યત્વે ઘઉં, જીરુ, મગફળી, બાજરી, ચણા, કપાસ, દિવેલા, રજકો તેમ જ અન્ય શાકભાજીના પાકની ખેતી કરવામાં આવે છે. આ ગામમાં પ્રાથમિક શાળા, પંચાયતઘર, આંગણવાડી તેમ જ દૂધની ડેરી જેવી સવલતો પ્રાપ્ય થયેલી છે.",
+      "language": "Gujarati",
+      "code": "gu",
+      "id": 0
+    },
+    {
+      "extract": "Every Beat of My Heart — музичний альбом Рода Стюарта. Виданий 23 червня 1986 року лейблом Warner Bros. Records. Альбом відносять до напрямку рок,поп.",
+      "language": "Ukrainian",
+      "code": "uk",
+      "id": 1
+    },
+    {
+      "extract": "Antipaluria är ett släkte av insekter.",
+      "language": "Swedish",
+      "code": "sv",
+      "id": 2
+    },
+    {
+      "extract": "『Opus』（オーパス）は、ルルティアの1枚目のミニアルバム。",
+      "language": "Japanese",
+      "code": "ja",
+      "id": 3
+    },
+    {
+      "extract": "FK Turbina Vreoci (Serbian Cyrillic: ФК Турбина Вреоци) is a football club based in Vreoci, Serbia. They currently play in the Serbian League Belgrade (Srpska liga Beograd), a third tier in Serbia's football league.",
+      "language": "English",
+      "code": "en",
+      "id": 4
+    }
+  ]
+}

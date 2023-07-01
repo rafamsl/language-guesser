@@ -1,0 +1,85 @@
+<head>
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #F8E9A1;
+    }
+
+    .container {
+      margin-top: 50px;
+    }
+
+    .card {
+      background-color: #F0C987;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-text {
+      font-size: 18px;
+      color: #333;
+    }
+
+    .language-select {
+      background-color: #FF7F50;
+      color: #FFF;
+    }
+
+    .btn-primary {
+      background-color: #c0a71cc5;
+      border-color: #b9a223aa;
+    }
+
+    .show-text-btn {
+      margin-bottom: 10px;
+    }
+
+    audio {
+      margin-bottom: 10px;
+    }
+
+    .form-group {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <form action="/answer" method="POST">
+    <div class="container">
+      {{#each result}}
+      <div class="card mb-3">
+        <div class="card-body">
+          <div>
+            <audio controls>
+              <source src="/audio/{{id}}.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+          <button type="button" class="btn btn-primary show-text-btn">Unhide text</button>
+          <p class="card-text extract" style="display: none;">{{extract}}</p>
+          <div class="form-group">
+            <label for="languageSelect{{@index}}" class="font-weight-bold"></label>
+            <select class="custom-select language-select" id="languageSelect{{@index}}" name="language">
+              <option value="">Select language</option>
+              {{#each ../languages}}
+              <option value="{{this.name}}">{{this.name}}</option>
+              {{/each}}
+            </select>
+          </div>
+        </div>
+      </div>
+      {{/each}}
+      <button class="btn btn-primary" type="submit">Submit Answers</button>
+    </div>
+  </form>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('.show-text-btn').click(function() {
+        $(this).hide();
+        $(this).siblings('.extract').show();
+      });
+    });
+  </script>
+
+</body>
