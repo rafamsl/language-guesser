@@ -6,7 +6,7 @@ import { getDefaultResultOrder } from 'dns';
 import { CreateAnswerDTO } from 'src/dto/create-answer.dto';
 import { LanguageService } from 'src/language/language.service';
 
-@Controller('sample')
+@Controller()
 export class SampleController {
     constructor(private readonly sampleService: SampleService, private readonly languageService: LanguageService){};
 
@@ -20,7 +20,7 @@ export class SampleController {
     //     return this.sampleService.findAll();
     // }
 
-    @Get('wikiRandom')
+    @Get()
     @Render('samples')
     async createWikiRandom() {
         try {
