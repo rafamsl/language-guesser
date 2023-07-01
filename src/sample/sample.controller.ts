@@ -26,7 +26,6 @@ export class SampleController {
         try {
             const result = await this.sampleService.getExtracts();
             const languages = this.languageService.findAll();
-            console.log(languages);
             return { result, languages };
         } catch (error) {
             console.error(error);

@@ -36,3 +36,5 @@ lerna-debug.log*
 
 #Sensitive
 googleserviceaccount.json
+.env
+/.env

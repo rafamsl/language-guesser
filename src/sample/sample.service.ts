@@ -9,6 +9,8 @@ import { format } from 'date-fns';
 import { CreateDailySampleDTO } from 'src/dto/create-dailySampleDTO.dto';
 import { protos, TextToSpeechClient } from '@google-cloud/text-to-speech';
 import { promisify } from 'util';
+import { config } from 'dotenv';
+config();
 
 @Injectable()
 export class SampleService {
@@ -112,8 +114,8 @@ export class SampleService {
 
       const googleClient = new TextToSpeechClient({
         credentials: {
-          client_email: credentials.client_email,
-          private_key: credentials.private_key,
+          client_email: process.env.CLIENT_EMAIL,
+          private_key: process.env.PRIVATE_KEY
         },
       });
 
@@ -127,8 +129,6 @@ export class SampleService {
           audioEncoding: protos.google.cloud.texttospeech.v1.AudioEncoding.MP3,
         }
       };
-
-      console.log(request)
     
       const [response] = await googleClient.synthesizeSpeech(request);
       const file = promisify(writeFile);
