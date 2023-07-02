@@ -38,3 +38,4 @@ lerna-debug.log*
 googleserviceaccount.json
 .env
 /.env
+.vercel
