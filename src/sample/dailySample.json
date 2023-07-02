@@ -2,33 +2,33 @@
   "date": "02/07/23",
   "sample": [
     {
-      "extract": "કટુડા (તા. વઢવાણ) ભારત દેશના પશ્ચિમ ભાગમાં આવેલા ગુજરાત રાજ્યના સૌરાષ્ટ્ર વિસ્તારમાં આવેલા સુરેન્દ્રનગર જિલ્લામાં આવેલા કુલ ૧૦ (દસ) તાલુકાઓ પૈકીના એક એવા વઢવાણ તાલુકામાં આવેલું એક ગામ છે. કટુડા ગામના લોકોનો મુખ્ય વ્યવસાય ખેતી, ખેતમજૂરી તેમ જ પશુપાલન છે. આ ગામમાં મુખ્યત્વે ઘઉં, જીરુ, મગફળી, બાજરી, ચણા, કપાસ, દિવેલા, રજકો તેમ જ અન્ય શાકભાજીના પાકની ખેતી કરવામાં આવે છે. આ ગામમાં પ્રાથમિક શાળા, પંચાયતઘર, આંગણવાડી તેમ જ દૂધની ડેરી જેવી સવલતો પ્રાપ્ય થયેલી છે.",
-      "language": "Gujarati",
-      "code": "gu",
+      "extract": "ഒരു ഓസ്‌ട്രേലിയൻ മെഡിക്കൽ ഡോക്ടറായിരുന്നു ഗ്രേസ് ഫെയർലി ബോൽകെ (4 ജൂലൈ 1870 - 17 ഫെബ്രുവരി 1948) . സിഡ്‌നി സർവകലാശാലയിൽ നിന്ന് വൈദ്യശാസ്ത്രത്തിൽ ബിരുദം നേടിയ ആദ്യ വനിതകളിൽ ഒരാളായിരുന്നു അവർ.",
+      "language": "Malayalam",
+      "code": "ml",
       "id": 0
     },
     {
-      "extract": "Every Beat of My Heart — музичний альбом Рода Стюарта. Виданий 23 червня 1986 року лейблом Warner Bros. Records. Альбом відносять до напрямку рок,поп.",
-      "language": "Ukrainian",
-      "code": "uk",
+      "extract": "ब्रेंडन पॉल नॅश (१४ डिसेंबर, इ.स. १९७७:ॲट्टाडेल, पश्चिम ऑस्ट्रेलिया, ऑस्ट्रेलिया - ) हा  वेस्ट इंडीजकडून आंतरराष्ट्रीय क्रिकेट खेळणारा खेळाडू आहे.",
+      "language": "Marathi",
+      "code": "mr",
       "id": 1
     },
     {
-      "extract": "Antipaluria är ett släkte av insekter.",
-      "language": "Swedish",
-      "code": "sv",
+      "extract": "Rábano merupakan sebuah kawasan perbandaran di Sepanyol di Valladolid, di komuniti autonomi Castile dan León.",
+      "language": "Malay",
+      "code": "ms",
       "id": 2
     },
     {
-      "extract": "『Opus』（オーパス）は、ルルティアの1枚目のミニアルバム。",
-      "language": "Japanese",
-      "code": "ja",
+      "extract": "Les 24 Heures du Mans 1931 sont la 9e édition de l'épreuve et se déroulent les 13 et 14 juin 1931 sur le circuit de la Sarthe.",
+      "language": "French",
+      "code": "fr",
       "id": 3
     },
     {
-      "extract": "FK Turbina Vreoci (Serbian Cyrillic: ФК Турбина Вреоци) is a football club based in Vreoci, Serbia. They currently play in the Serbian League Belgrade (Srpska liga Beograd), a third tier in Serbia's football league.",
-      "language": "English",
-      "code": "en",
+      "extract": "இலங்கையின் மொத்த சனத்தொகையில் 70.2 சதவீதமானோர் தேரவாத பௌத்தத்தைப் பின்பற்றுகின்றனர். 2012 சனத்தொகைக் கணக்கெடுப்பின் படி 14,222,844 பேர் பௌத்த சமயத்தைப் பின்பற்றுகின்றனர்.",
+      "language": "Tamil",
+      "code": "ta",
       "id": 4
     }
   ]
