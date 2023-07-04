@@ -24,7 +24,6 @@ export class AnswerService {
         const answerDTO = new CreateAnswerDTO();
         answerDTO.totalScore = totalScore;
         answerDTO.samples = response;
-        console.log(answerDTO);
         return answerDTO;
     }
 

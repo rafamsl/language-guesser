@@ -14,6 +14,11 @@
       text-align: center;
       margin-bottom: 30px;
     }
+
+    .logo img {
+      max-width: 400px; /* Adjust the max-width to make the logo smaller in width */
+      max-height: 400px; /* Adjust the max-height to make the logo smaller in height */
+    }
     .game-instructions {
       text-align: center;
       margin-bottom: 30px;
@@ -29,13 +34,14 @@
       padding: 10px 20px;
       font-size: 24px;
       border-radius: 10px;
+      width: fit-content; /* Add this line to make the button smaller horizontally */
     }
   </style>
 </head>
 <body>
   <div class="container">
     <div class="logo">
-      <a href="/public/logo.png"><img src="/public/logo.png" alt="Logo"></a>
+      <a href="/logo.png"><img src="/logo.png" alt="Logo"></a>
     </div>
     <div class="game-instructions">
       <p>Game Instructions: Listen to the audios, and guess the languages. If it's too hard, unhide the text</p>
