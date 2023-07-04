@@ -1,34 +1,34 @@
 {
-  "date": "02/07/23",
+  "date": "04/07/23",
   "sample": [
     {
-      "extract": "ഒരു ഓസ്‌ട്രേലിയൻ മെഡിക്കൽ ഡോക്ടറായിരുന്നു ഗ്രേസ് ഫെയർലി ബോൽകെ (4 ജൂലൈ 1870 - 17 ഫെബ്രുവരി 1948) . സിഡ്‌നി സർവകലാശാലയിൽ നിന്ന് വൈദ്യശാസ്ത്രത്തിൽ ബിരുദം നേടിയ ആദ്യ വനിതകളിൽ ഒരാളായിരുന്നു അവർ.",
-      "language": "Malayalam",
-      "code": "ml",
+      "extract": "Осіни (пол. Osiny) — село в Польщі, у гміні Камениця-Польська Ченстоховського повіту Сілезького воєводства.\nНаселення — 790 осіб (2011).\nУ 1975—1998 роках село належало до Ченстоховського воєводства.",
+      "language": "Ukrainian",
+      "code": "uk",
       "id": 0
     },
     {
-      "extract": "ब्रेंडन पॉल नॅश (१४ डिसेंबर, इ.स. १९७७:ॲट्टाडेल, पश्चिम ऑस्ट्रेलिया, ऑस्ट्रेलिया - ) हा  वेस्ट इंडीजकडून आंतरराष्ट्रीय क्रिकेट खेळणारा खेळाडू आहे.",
-      "language": "Marathi",
-      "code": "mr",
+      "extract": "„Сан Бернар“ е швейцарска хижа, разположена в прохода Голям Сан Бернар в Алпите. Намира се на 2469 м надморска височина само на няколкостотин метра от границата с Италия.\nНаблизо (в село Бург – Сен Пиер) е имало манастир или хижа (която да служи за подслон на пътници и търговци), за първи път споменат към 812 – 820 г. Тази обител е разрушена от сарацините през X век, вероятно ок. 940 г. Към 1050 г. Бернар Мантонски – архидякон на Аоста, основава хижата, приела после неговото име. Хижата е изградена в самия проход, както и църквата „Св. Никола“ (1125).\n\nХижата е известна и с това, че от края на XVII или началото на XVIII век нейните обитатели започват да отглеждат и обучават кучета от породата санбернар, които първоначално служат за пазачи на хижата, а впоследствие започват да ги използват за спасяване на хора, затрупани от лавини.",
+      "language": "Bulgarian",
+      "code": "bg",
       "id": 1
     },
     {
-      "extract": "Rábano merupakan sebuah kawasan perbandaran di Sepanyol di Valladolid, di komuniti autonomi Castile dan León.",
-      "language": "Malay",
-      "code": "ms",
+      "extract": "Die Bongolorivier is 'n rivier wat net suid van Komani (Queenstown) in die Oos-Kaap in Suid-Afrika vloei. Dit is deel van die opvanggebied van die Groot-Keirivier.",
+      "language": "Afrikaans",
+      "code": "af",
       "id": 2
     },
     {
-      "extract": "Les 24 Heures du Mans 1931 sont la 9e édition de l'épreuve et se déroulent les 13 et 14 juin 1931 sur le circuit de la Sarthe.",
-      "language": "French",
-      "code": "fr",
+      "extract": "Pulau Bukoang adalah nama sebuah pulau kecil yang berada di perairan Teluk Parepare, Selat Makassar dan secara administratif masuk pada wilayah Desa Wiringtasi, Kecamatan Suppa, Kabupaten Pinrang, Sulawesi Selatan, Indonesia.",
+      "language": "Indonesian",
+      "code": "id",
       "id": 3
     },
     {
-      "extract": "இலங்கையின் மொத்த சனத்தொகையில் 70.2 சதவீதமானோர் தேரவாத பௌத்தத்தைப் பின்பற்றுகின்றனர். 2012 சனத்தொகைக் கணக்கெடுப்பின் படி 14,222,844 பேர் பௌத்த சமயத்தைப் பின்பற்றுகின்றனர்.",
-      "language": "Tamil",
-      "code": "ta",
+      "extract": "Gugatnis (Calidris pugnax) ir viena no sloku dzimtas (Scolopacidae) tārtiņveidīgo putnu sugām. Nesenā pagātnē tas tika sistematizēts kā vienīgā suga gugatņu ģintī (Philomachus), bet saskaņā ar jaunāko sistemātiku to klasificē šņibīšu ģintī (Calidris). Ģeogrāfisko variāciju nav.Tas ir gājputns, izņemot nelielas populācijas Rietumeiropā. Ligzdo Eirāzijas ziemeļos, ziemo Āfrikā un Āzijas dienvidos. Dažas Āzijas ziemeļos ligzdojošās populācijas ik gadu veic apmēram 30 000 km garu ceļu no ligzdošanas teritorijām uz ziemošanas vietām Āfrikas rietumos un atpakaļ.Saskaņā ar DNS pētījumiem gugatnim tuvākie radinieki ir dūņšņibītis un smailastes šņibītis. Lai arī šai sugai ir plašs izplatības areāls, tai nav ģeogrāfisko variāciju.",
+      "language": "Latvian",
+      "code": "lv",
       "id": 4
     }
   ]
