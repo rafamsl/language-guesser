@@ -1,45 +1,51 @@
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <style>
     body {
       background-color: #F8E9A1;
     }
-
-    .container {
+     .container {
       margin-top: 50px;
     }
-
-    .card {
+     .card {
       background-color: #F0C987;
       border-radius: 10px;
       box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
     }
-
-    .card-text {
+     .card-text {
       font-size: 18px;
       color: #333;
     }
-
-    .language-select {
+     .language-select {
       background-color: #FF7F50;
       color: #FFF;
     }
-
-    .btn-primary {
+     .btn-primary {
       background-color: #c0a71cc5;
       border-color: #b9a223aa;
     }
-
-    .show-text-btn {
+     .show-text-btn {
       margin-bottom: 10px;
     }
-
-    audio {
+     audio {
       margin-bottom: 10px;
     }
-
-    .form-group {
+     .form-group {
       margin-bottom: 10px;
+    }
+     /* Responsive Styles */
+    @media (max-width: 576px) {
+      .container {
+        margin-top: 20px;
+      }
+       .card {
+        margin-bottom: 10px;
+      }
+       .show-text-btn {
+        margin-bottom: 5px;
+      }
     }
   </style>
 </head>
@@ -81,5 +87,4 @@
       });
     });
   </script>
-
 </body>
