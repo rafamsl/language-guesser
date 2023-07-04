@@ -20,7 +20,7 @@ export class SampleController {
     //     return this.sampleService.findAll();
     // }
 
-    @Get()
+    @Get('play')
     @Render('samples')
     async createWikiRandom() {
         try {
@@ -31,11 +31,5 @@ export class SampleController {
             console.error(error);
             return { error: 'Please refresh the page' };
         }
-    }
-
-    @Get('audio')
-    async getTextToAudio(){
-        await this.sampleService.convertTextToMP3("To chegando com os refri rapaziada", "pt", 1);
-        return;
     }
 }
