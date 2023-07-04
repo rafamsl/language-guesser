@@ -110,7 +110,6 @@ export class SampleService {
     }
 
     async convertTextToMP3(text:string, languageCode: string, index: number){
-      const credentials = JSON.parse(readFileSync('googleserviceaccount.json').toString());
 
       const googleClient = new TextToSpeechClient({
         credentials: {
