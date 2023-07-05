@@ -20,7 +20,7 @@ export class SampleController {
     //     return this.sampleService.findAll();
     // }
 
-    @Get('play')
+    @Get('language-guesser/play')
     @Render('samples')
     async createWikiRandom() {
         try {
