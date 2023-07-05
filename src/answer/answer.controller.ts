@@ -5,6 +5,7 @@ import { SampleService } from 'src/sample/sample.service';
 import { AnswerModule } from './answer.module';
 import { AnswerService } from './answer.service';
 
+@Controller()
 export class AnswerController {
     constructor(private readonly answerService: AnswerService, private readonly sampleService: SampleService){};
 
