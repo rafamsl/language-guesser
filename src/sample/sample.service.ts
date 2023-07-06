@@ -131,7 +131,7 @@ export class SampleService {
     
       const [response] = await googleClient.synthesizeSpeech(request);
       const file = promisify(writeFile);
-      await file("/language-guesser/public/audio/" + index + ".mp3", response.audioContent, 'binary');
+      await file("/public/audio/" + index + ".mp3", response.audioContent, 'binary');
     
     }
 
