@@ -13,14 +13,10 @@ export class AnswerService {
         const samples = this.sampleService.getDailySample().sample;
         const answerLanguages = formdata['language'];
         let totalScore = 0;
-        const response = samples.map((obj,index)=>{
+        const response = samples.map(async (obj,index)=>{
             const selectedLanguage = answerLanguages[index];
-            let score = 0
-            if(selectedLanguage === obj.language){
-                score = 1
-                totalScore += 1;
-            }
-            return {...obj, selectedLanguage, score}
+            const score = await this.compareLanguages(selectedLanguage,obj.language)
+            return {...obj, selectedLanguage, score: Math.round(score/475 * 100)}
         })
         const answerDTO = new CreateAnswerDTO();
         answerDTO.totalScore = totalScore;
