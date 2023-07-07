@@ -1,34 +1,34 @@
 {
-  "date": "04/07/23",
+  "date": "06/07/23",
   "sample": [
     {
-      "extract": "Осіни (пол. Osiny) — село в Польщі, у гміні Камениця-Польська Ченстоховського повіту Сілезького воєводства.\nНаселення — 790 осіб (2011).\nУ 1975—1998 роках село належало до Ченстоховського воєводства.",
-      "language": "Ukrainian",
-      "code": "uk",
+      "extract": "Tage Møller (født 22. september 1892 i Skive, død 5. juli 1968) var en dansk-svensk arkitekt.\nMøller blev student fra Sorø Akademi 1910, cand.phil. i København 1911 og aflagde arkitekteksamen der 1923. Han var ansat hos domkirkearkitekten Harald Lønborg-Jensen i København 1913–14 og 1917–19, hos den kongelige bygningsinspektør J.M. Agdahl-Nielsen i København 1916, hos Arnold Salomon-Sörensen i Helsingborg 1920, hos Gustav Wilhelmsson Widmark sammesteds 1922–26, hos länsarkitekt Nils A. Blanck i Malmø 1927–34, havde egen praksis fra 1935 og var stadsarkitekt i Malmöortens distrikt fra 1935. \nMøller var statsudpeget medlem af Malmø bys ejendomsbeskatningsnævn fra 1934 samt styrelsesmedlem i Arkitektföreningen för södra Sverige og sekretær i Södra Sveriges byggnadstekniska samfund.",
+      "language": "Danish",
+      "code": "da",
       "id": 0
     },
     {
-      "extract": "„Сан Бернар“ е швейцарска хижа, разположена в прохода Голям Сан Бернар в Алпите. Намира се на 2469 м надморска височина само на няколкостотин метра от границата с Италия.\nНаблизо (в село Бург – Сен Пиер) е имало манастир или хижа (която да служи за подслон на пътници и търговци), за първи път споменат към 812 – 820 г. Тази обител е разрушена от сарацините през X век, вероятно ок. 940 г. Към 1050 г. Бернар Мантонски – архидякон на Аоста, основава хижата, приела после неговото име. Хижата е изградена в самия проход, както и църквата „Св. Никола“ (1125).\n\nХижата е известна и с това, че от края на XVII или началото на XVIII век нейните обитатели започват да отглеждат и обучават кучета от породата санбернар, които първоначално служат за пазачи на хижата, а впоследствие започват да ги използват за спасяване на хора, затрупани от лавини.",
-      "language": "Bulgarian",
-      "code": "bg",
+      "extract": "परिवहन का इतिहास मानव जाति के जन्म से ही आरम्भ होता है।",
+      "language": "Hindi",
+      "code": "hi",
       "id": 1
     },
     {
-      "extract": "Die Bongolorivier is 'n rivier wat net suid van Komani (Queenstown) in die Oos-Kaap in Suid-Afrika vloei. Dit is deel van die opvanggebied van die Groot-Keirivier.",
-      "language": "Afrikaans",
-      "code": "af",
+      "extract": "İspir keçisi, Erzurum'un kuzeyi ve Rize'nin güneyinde yetiştirilen bir keçi ırkıdır. Adını Erzurum'un İspir ilçesinden almıştır. 2014 yılı istatistiklerine göre, Erzurum'daki keçilerin %4'ü İspir keçisidir. Mitokondriyal DNA haplogrubu A olan İspir keçisinin genetik olarak en yakın olduğu keçi ırkı Kaçkar keçisidir.",
+      "language": "Turkish",
+      "code": "tr",
       "id": 2
     },
     {
-      "extract": "Pulau Bukoang adalah nama sebuah pulau kecil yang berada di perairan Teluk Parepare, Selat Makassar dan secara administratif masuk pada wilayah Desa Wiringtasi, Kecamatan Suppa, Kabupaten Pinrang, Sulawesi Selatan, Indonesia.",
-      "language": "Indonesian",
-      "code": "id",
+      "extract": "Mitrophrys magna är en fjärilsart som beskrevs av Walker. Mitrophrys magna ingår i släktet Mitrophrys och familjen nattflyn. Inga underarter finns listade i Catalogue of Life.",
+      "language": "Swedish",
+      "code": "sv",
       "id": 3
     },
     {
-      "extract": "Gugatnis (Calidris pugnax) ir viena no sloku dzimtas (Scolopacidae) tārtiņveidīgo putnu sugām. Nesenā pagātnē tas tika sistematizēts kā vienīgā suga gugatņu ģintī (Philomachus), bet saskaņā ar jaunāko sistemātiku to klasificē šņibīšu ģintī (Calidris). Ģeogrāfisko variāciju nav.Tas ir gājputns, izņemot nelielas populācijas Rietumeiropā. Ligzdo Eirāzijas ziemeļos, ziemo Āfrikā un Āzijas dienvidos. Dažas Āzijas ziemeļos ligzdojošās populācijas ik gadu veic apmēram 30 000 km garu ceļu no ligzdošanas teritorijām uz ziemošanas vietām Āfrikas rietumos un atpakaļ.Saskaņā ar DNS pētījumiem gugatnim tuvākie radinieki ir dūņšņibītis un smailastes šņibītis. Lai arī šai sugai ir plašs izplatības areāls, tai nav ģeogrāfisko variāciju.",
-      "language": "Latvian",
-      "code": "lv",
+      "extract": "Η Λυγιά είναι παραθαλάσσιο χωριό της Λευκάδας σε υψόμετρο 10 μέτρα. Σύμφωνα με την εφαρμογή του προγράμματος Καλλικράτης μαζί με την Κατούνα και τον Επίσκοπο συναποτελούν την Τοπική Ενότητα Κατούνης που ανήκει στη Δημοτική Ενότητα Λευκάδας του Δήμου Λευκάδας και σύμφωνα με την απογραφή πληθυσμού και κατοικιών του 2011 που αφορούν στο μόνιμο πληθυσμό της χώρας απογράφησαν 930 κάτοικοι.",
+      "language": "Greek",
+      "code": "el",
       "id": 4
     }
   ]
