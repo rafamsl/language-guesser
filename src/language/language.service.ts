@@ -7,6 +7,7 @@ import { readFileSync } from 'fs';
 export class LanguageService {
     private readonly languages: Language[] = JSON.parse(readFileSync('src/language/language.json').toString());
     private readonly csvFilePath = 'src/language/language-matrix.csv';
+    private similarity_matrix = "https://www.ezglot.com/language-similarity-matrix.html"
 
     create(languages:Language[]) {
         this.languages.push(...languages);
