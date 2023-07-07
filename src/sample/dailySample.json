@@ -1,34 +1,28 @@
 {
-  "date": "06/07/23",
+  "date": "07/07/23",
   "sample": [
     {
-      "extract": "Tage Møller (født 22. september 1892 i Skive, død 5. juli 1968) var en dansk-svensk arkitekt.\nMøller blev student fra Sorø Akademi 1910, cand.phil. i København 1911 og aflagde arkitekteksamen der 1923. Han var ansat hos domkirkearkitekten Harald Lønborg-Jensen i København 1913–14 og 1917–19, hos den kongelige bygningsinspektør J.M. Agdahl-Nielsen i København 1916, hos Arnold Salomon-Sörensen i Helsingborg 1920, hos Gustav Wilhelmsson Widmark sammesteds 1922–26, hos länsarkitekt Nils A. Blanck i Malmø 1927–34, havde egen praksis fra 1935 og var stadsarkitekt i Malmöortens distrikt fra 1935. \nMøller var statsudpeget medlem af Malmø bys ejendomsbeskatningsnævn fra 1934 samt styrelsesmedlem i Arkitektföreningen för södra Sverige og sekretær i Södra Sveriges byggnadstekniska samfund.",
-      "language": "Danish",
-      "code": "da",
+      "extract": "O pertegueiro maior de Santiago é unha dignidade da arquidiocese católica latina de Santiago de Compostela.",
+      "language": "Galician",
+      "code": "gl",
       "id": 0
     },
     {
-      "extract": "परिवहन का इतिहास मानव जाति के जन्म से ही आरम्भ होता है।",
-      "language": "Hindi",
-      "code": "hi",
+      "extract": "டெரெக் களிச்சாரன் (Derek Kallicharran பிறப்பு: ஏப்ரல் 4 1958), இவர் அமெரிக்க அணியின் துடுப்பாட்டக்காரர்.. 39 முதல்தர துடுப்பாட்டப் போட்டிகளிலும், ஒன்பது ஏ-தர துடுப்பாட்டப் போட்டியிலும், கலந்து கொண்டுள்ளார். இவர் 1978/79-1985/86 பருவ ஆண்டில் முதல்தர துடுப்பாட்டப் போட்டிகளில் அமெரிக்க துடுப்பாட்ட அணியின் உறுப்பினராக பங்குகொண்டார். இடதுகை துடுப்பாட்டக்காரர், மிதவேகப் பந்துவீச்சாளர்.",
+      "language": "Tamil",
+      "code": "ta",
       "id": 1
     },
     {
-      "extract": "İspir keçisi, Erzurum'un kuzeyi ve Rize'nin güneyinde yetiştirilen bir keçi ırkıdır. Adını Erzurum'un İspir ilçesinden almıştır. 2014 yılı istatistiklerine göre, Erzurum'daki keçilerin %4'ü İspir keçisidir. Mitokondriyal DNA haplogrubu A olan İspir keçisinin genetik olarak en yakın olduğu keçi ırkı Kaçkar keçisidir.",
-      "language": "Turkish",
-      "code": "tr",
+      "extract": "تروكوت هي إحدى مشيخات المملكة المغربية، تتبع جغرافيا لإقليم الدريوش وإداريًا لتروكوت. يقدر عدد سكانها بـ 5338 نسمة حسب الإحصاء الرسمي للسكان والسكنى لسنة 2004.",
+      "language": "Arabic",
+      "code": "ar",
       "id": 2
     },
     {
-      "extract": "Mitrophrys magna är en fjärilsart som beskrevs av Walker. Mitrophrys magna ingår i släktet Mitrophrys och familjen nattflyn. Inga underarter finns listade i Catalogue of Life.",
-      "language": "Swedish",
-      "code": "sv",
-      "id": 3
-    },
-    {
-      "extract": "Η Λυγιά είναι παραθαλάσσιο χωριό της Λευκάδας σε υψόμετρο 10 μέτρα. Σύμφωνα με την εφαρμογή του προγράμματος Καλλικράτης μαζί με την Κατούνα και τον Επίσκοπο συναποτελούν την Τοπική Ενότητα Κατούνης που ανήκει στη Δημοτική Ενότητα Λευκάδας του Δήμου Λευκάδας και σύμφωνα με την απογραφή πληθυσμού και κατοικιών του 2011 που αφορούν στο μόνιμο πληθυσμό της χώρας απογράφησαν 930 κάτοικοι.",
-      "language": "Greek",
-      "code": "el",
+      "extract": "চান্দিনা আল-আমিন ইসলামিয়া কামিল মাদ্রাসা কুমিল্লা জেলার চান্দিনা উপজেলায় অবস্থিত একটি আলিয়া মাদ্রাসা ও দ্বীনী শিক্ষাপ্রতিষ্ঠান। এটা ইসলামি শিক্ষার জন্য একটি উচ্চ শিক্ষাপ্রতিষ্ঠান, যা ইসলামি আরবি বিশ্ববিদ্যালয় অধিভুক্ত। এছাড়াও দাখিল ও আলিম শ্রেণীর জন্য মাদ্রাসাটি বাংলাদেশ মাদ্রাসা শিক্ষাবোর্ড ঢাকার অন্তর্ভুক্ত। মাদ্রাসাটি ১৯৮৪ সালে প্রতিষ্ঠা লাভ করেছে, বর্তমানে মাদ্রাসাটি কুমিল্লা জেলার অন্যতম প্রধান ইসলামি শিক্ষাপ্রতিষ্ঠান।",
+      "language": "Bengali",
+      "code": "bn",
       "id": 4
     }
   ]
